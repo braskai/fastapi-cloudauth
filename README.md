@@ -26,7 +26,7 @@ Python 3.6+
 ```console
 $ pip install fastapi-cloudauth
 ```
-
+AAAAAAAAAA
 ## Example (AWS Cognito)
 
 ### Pre-requirements
